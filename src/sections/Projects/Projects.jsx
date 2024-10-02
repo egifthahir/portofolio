@@ -36,42 +36,42 @@ function Projects() {
                 <ProjectCard 
                     src={houseIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE_3"
-                    h3="Machine Learning Capstone"
-                    p="California House Pricing Prediction"
+                    h3="California House Pricing Prediction"
+                    p="Machine Learning Project"
                 />
                 <ProjectCard 
                     src={tlcIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE_2"
-                    h3="Data Science and Statistics Capstone"
-                    p="New York City - Taxi & Limousine Commission Trip Record Analysis"
+                    h3="New York City - Taxi & Limousine Commission Trip Record Analysis"
+                    p="Data Analysis and Statistical Evaluation"
                 />      
                 <ProjectCard 
                     src={pythonIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE"
-                    h3="Python CRUD App Capstone"
-                    p="Hospital Patient Management System"
+                    h3="Hospital Patient Management System"
+                    p="Python CRUD Implementation"
                 />  
                 <ProjectCard 
                     src={lineIcon}
                     link="https://colab.research.google.com/drive/1GdNcfW7QqDVxfWxK5tEm0TCazBRDef_M?usp=sharing#scrollTo=CFdGRkUUjMQ7"
-                    h3="Time Series Forecasting Project"
-                    p="Walmart Yearly Sales Forecast"
+                    h3="Walmart Yearly Sales Forecast"
+                    p="Time Series Forecasting Project"
                 />  
                 <MultiProjectCard 
                     img_a={colabIcon}
                     img_b={lookerIcon}
                     link_a="https://colab.research.google.com/drive/1TaiT4xskfK_MAcwtWrrxiWOKYTQxgdT-#scrollTo=XjUfJ1IIphWQ"
                     link_b="https://lookerstudio.google.com/reporting/817d0264-79b1-4c31-a02f-7b83bebee867"
-                    h3="Google Colab & Looker Project"
-                    p="Cosmetics E-Commerce Cohort Analysis"
+                    h3="Cosmetics E-Commerce Cohort Analysis"
+                    p="Google Colab & Looker Project"
                 />              
                 <MultiProjectCard 
                     img_a={colabIcon}
                     img_b={tableauIcon}
                     link_a="https://colab.research.google.com/drive/1toQc_ZevkYva08DPgYBqgcHunqKc1jau?usp=sharing"
                     link_b="https://public.tableau.com/views/E-CommerceRFMAnalysis_17272585249280/E-CommerceRFM?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
-                    h3="Google Colab & Tableau Project"
-                    p="Online Retail E-Commerce RFM Analysis"
+                    h3="Online Retail E-Commerce RFM Analysis"
+                    p="Google Colab & Tableau Project"
                 />              
             </div>
         </section>
