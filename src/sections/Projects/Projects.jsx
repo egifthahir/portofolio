@@ -3,8 +3,8 @@ import houseLight from '../../assets/houseLight.svg';
 import houseDark from '../../assets/houseDark.svg';
 import tlcLight from '../../assets/tlc-light.webp';
 import tlcDark from '../../assets/tlc-dark.jpg';
-import pythonLight from '../../assets/python-light.svg';
-import pythonDark from '../../assets/python-dark.svg';
+import hospLight from '../../assets/hosp-light.svg';
+import hospDark from '../../assets/hosp-dark.svg';
 import lineLight from '../../assets/line-light.svg';
 import lineDark from '../../assets/line-dark.svg';
 import colabLight from '../../assets/colab-light.svg';
@@ -23,7 +23,7 @@ function Projects() {
 
     const houseIcon = theme === 'light' ? houseLight : houseDark;
     const tlcIcon = theme === 'light' ? tlcLight : tlcDark;
-    const pythonIcon = theme === 'light' ? pythonLight : pythonDark;
+    const hospIcon = theme === 'light' ? hospLight : hospDark;
     const lineIcon = theme === 'light' ? lineLight : lineDark;
     const colabIcon = theme === 'light' ? colabLight : colabDark;
     const lookerIcon = theme === 'light' ? lookerLight : lookerDark;
@@ -46,7 +46,7 @@ function Projects() {
                     p="Data Analytics and Statistical Evaluation"
                 />      
                 <ProjectCard 
-                    src={pythonIcon}
+                    src={hospIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE"
                     h3="Hospital Patient Management System"
                     p="Python CRUD Implementation"
