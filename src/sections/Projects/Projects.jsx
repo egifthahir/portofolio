@@ -42,7 +42,7 @@ function Projects() {
                 <ProjectCard 
                     src={tlcIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE_2"
-                    h3="New York City - TLC Trip Record Analysis"
+                    h3="New York City - Taxi Trip Record Analysis"
                     p="Data Analytics and Statistical Evaluation"
                 />      
                 <ProjectCard 
