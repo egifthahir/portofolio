@@ -43,7 +43,7 @@ function Projects() {
                     src={tlcIcon}
                     link="https://github.com/egifthahir/JCDS_CAPSTONE_2"
                     h3="New York City - Taxi Trip Record Analysis"
-                    p="Data Analytics and Statistical Evaluation"
+                    p="Data Analytics and Statistical Evaluations"
                 />      
                 <ProjectCard 
                     src={hospIcon}
